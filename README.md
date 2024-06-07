@@ -10,8 +10,8 @@ This is a program for automatically creating thumbnails for videos.
 - Download any Stable Diffusion model and place it in the SD_model folder.
 
 # Usage
-Just place your video in the ```videos``` folder and run main.py
-**Note:** you can change some settings in main.py
+Just place your video in the ```videos``` folder and run ```main.py``` </br>
+**Note:** you can change some settings in ```main.py```
 
 
 
